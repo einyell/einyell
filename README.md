@@ -9,7 +9,7 @@ You can also find me at
   <img src="<https://cdn-icons-png.flaticon.com/512/2111/2111463.png>" width="auto" height="50px">
     
     <a target="_blank" href="https://www.linkedin.com/in/%C3%A1ngel-belmar/">
-  <img src="<https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1655988636~hmac=1162a878b2e2b5d5a57c904d046f1d0b>" width="auto" height="50px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="auto" height="50px">
   
 <!--
 **einyell/einyell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
