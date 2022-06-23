@@ -1,13 +1,10 @@
 ### Hi there 👋, my name is Angel. I'm looking to collaborate as a front-end developer.
 
 
-You can also find me at:
+Find me at:
 
-<a target="_blank" href="https://github.com/<username>">
-  <img src="<url-to-logo>" width="auto" height="50px">
-
-    <a target="_blank" href="https://www.linkedin.com/in/angelbelmar/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="auto" height="50px">
+    <a target="_blank" href="https://www.linkedin.com/in/angelbelmar/">
   
       <a target="_blank" href="https://www.twitter.com/einyelll">
   <img src="https://w7.pngwing.com/pngs/872/50/png-transparent-computer-icons-social-media-logo-twitter-social-media-blue-logo-social-media-thumbnail.png" width="auto" height="50px">
