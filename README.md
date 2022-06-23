@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
-
+<img src="https://camo.githubusercontent.com/680a34d5c96a7c2800bab5c5aab40ffa93e760923935f974fafa43ed19490b17/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d48544d4c2d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d2533434c4f474f5f4e414d45253345266c6f676f436f6c6f723d776869746526636f6c6f723d453334463236" alt="" data-canonical-src="https://img.shields.io/badge/Code-HTML-informational?style=flat&amp;logo=%3CLOGO_NAME%3E&amp;logoColor=white&amp;color=E34F26" style="max-width: 100%;">
 <h3 align="left">Find me at:</h3>
 <p align="left">
 <a href="https://twitter.com/einyell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="einyell" height="30" width="40" /></a>
