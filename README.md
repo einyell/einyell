@@ -1,5 +1,10 @@
 ### Hi there 👋, my name is Angel. I'm looking to collaborate as a front-end developer.
 
+
+You can also find me at
+<a target="_blank" href="https://github.com/<einyell>">
+  <img src="<https://cdn-icons-png.flaticon.com/512/5968/5968866.png>" width="auto" height="50px">
+  
 <!--
 **einyell/einyell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
