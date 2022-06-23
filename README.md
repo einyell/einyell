@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/es/ver/coding-gif-24297652")
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAS/coding.gif")
 
 <h3 align="left">Find me at:</h3>
 <p align="left">
