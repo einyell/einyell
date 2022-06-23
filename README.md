@@ -3,8 +3,16 @@
 
 Find me at:
 
+    <a target="_blank" href="https://www.linkedin.com/in/angel-belmar/">
+   <img src="https://img.icons8.com/color/344/linkedin.png" width="auto" height="50px">
+ 
+
+
    <a target="_blank" href="http://wwww.twitter.com/einyelll">
    <img src="https://w7.pngwing.com/pngs/872/50/png-transparent-computer-icons-social-media-logo-twitter-social-media-blue-logo-social-media-thumbnail.png" width="auto" height="50px">
+   
+   
+
 <!--
 **einyell/einyell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
