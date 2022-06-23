@@ -8,9 +8,11 @@ Find me at:
    <img src="https://img.icons8.com/color/344/linkedin.png" width="auto" height="50px">
  
 
+  <a target="_blank" href="https://www.instagram.com/einyel/">
+   <img src="https://img.icons8.com/fluency/344/instagram-new.png" width="auto" height="50px">
 
-   <a target="_blank" href="http://www.twitter.com/einyelll">
-   <img src="https://w7.pngwing.com/pngs/872/50/png-transparent-computer-icons-social-media-logo-twitter-social-media-blue-logo-social-media-thumbnail.png" width="auto" height="50px">
+   <a href="mailto:angelbelmarcmaab@gmail.com">
+   <img src="https://img.icons8.com/color/344/gmail-login.png" width="auto" height="50px">
    
    
 
