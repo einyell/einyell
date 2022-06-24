@@ -1,4 +1,6 @@
-![](https://komarev.com/ghpvc/?einyell)
+![](https://komarev.com/ghpvc/?username=einyell&color=ff69b4&style=for-the-badge)
+![](https://komarev.com/ghpvc/?einyell&label=PROFILE+VIEWS)
+
 <h1 align="center">Hi 👋, I'm Angel</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
